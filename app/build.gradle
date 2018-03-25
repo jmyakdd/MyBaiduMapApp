@@ -9,7 +9,7 @@ android {
         config {
             keyAlias 'android'
             keyPassword 'android'
-            storeFile file('G:/android/MyBaiduMapApp/mybaidumap.jks')
+            storeFile file('../mybaidumap.jks')
             storePassword 'jmyakdd1994'
         }
     }
