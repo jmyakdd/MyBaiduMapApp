@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyBaiduMapApp.iml" filepath="$PROJECT_DIR$/.idea/MyBaiduMapApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBaiduMapApp.iml" filepath="$PROJECT_DIR$/MyBaiduMapApp.iml" />
       <module fileurl="file://E:\project\android\work\mobisist\MyBaiduMapApp\MyBaiduMapApp.iml" filepath="E:\project\android\work\mobisist\MyBaiduMapApp\MyBaiduMapApp.iml" />
+      <module fileurl="file://G:\android\MyBaiduMapApp\.idea\MyBaiduMapApp.iml" filepath="G:\android\MyBaiduMapApp\.idea\MyBaiduMapApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
